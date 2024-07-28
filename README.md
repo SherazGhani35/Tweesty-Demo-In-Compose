@@ -31,6 +31,3 @@ This is the Category Detail screen of the app, showing the main categories.
 
 **Architecture**
 * MVVM
-
-# Tweesty-Demo-In-Compose
-In this repo you will learn basic of Compose Using MVVM Architecture. If you like the repo and you learn something then star this repo and support me.
