@@ -3,24 +3,13 @@ In this application you will see the implementation of apis with retrofit using 
 
 ## Screenshots
 
-
-![Home Screen]
-<div>
-    <img src="https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png" width="300px">
-</div>
-
-![Home Screen]
-<div>
-    <img src="https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png" width="300px">
-</div>
 This is the home screen of the app, showing the main categories.
 
+![Home Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png)
+On Home screen list of categories showing
 
-![Loader Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png)
-After Clicking on the Category Loader Screen Appears
 
-
-![Detail Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_03.png)
+![Detail Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_02.png)
 In this screen you will see list of all tweets for specific categoy
 
 ## Technologies Used
@@ -31,14 +20,13 @@ In this screen you will see list of all tweets for specific categoy
 * Nav Components which used for navigation
 
 **Networking**
-* Retrofit (version 2.9.0)
-* OkHttp (version 4.9.3)**Database**
-* Room Persistence Library (version 2.4.3)
+* Retrofit 
+* OkHttp 
 
 **Other**
 * Hilt for dependency injection
 * Kotlin Coroutines for asynchronous programming
-
+* Coroutines
 
 **Architecture**
 * MVVM
