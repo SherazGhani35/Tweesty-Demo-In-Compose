@@ -6,11 +6,11 @@ In this application you will see the implementation of apis with retrofit using 
 This is the home screen of the app, showing the main categories.
 
 ![Home Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png)
-On Home screen list of categories showing
 
 
-![Detail Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_02.png)
 In this screen you will see list of all tweets for specific categoy
+![Detail Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_02.png)
+
 
 ## Technologies Used
 
