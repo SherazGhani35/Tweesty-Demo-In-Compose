@@ -7,6 +7,7 @@ This is the home screen of the app, showing the main categories.
 
 ![Home Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png)
 
+This is the Detauk screen of the app, showing the main categories.
 
 
 ![Detail Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_02.png)
