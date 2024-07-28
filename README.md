@@ -3,7 +3,9 @@ In this application you will see the implementation of apis with retrofit using 
 
 ## Screenshots
 
-![Home Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/screenshot_1.png)
+<imgsrc="https://raw.githubusercontent.com/SherazGhani35/Tweesty-Demo-In-Compose/main/Screenshots/screenshot_1.png" width="600">
+
+![Home Screen](https://raw.githubusercontent.com/SherazGhani35/Tweesty-Demo-In-Compose/main/Screenshots/screenshot_1.png)
 This is the home screen of the app, showing the main categories.
 
 
