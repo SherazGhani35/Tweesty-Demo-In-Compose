@@ -16,7 +16,7 @@ In this application you will see the implementation of apis with retrofit using 
 This is the home screen of the app, showing the main categories.
 
 
-![Loader Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_02.png)
+![Loader Screen](https://github.com/SherazGhani35/Tweesty-Demo-In-Compose/blob/main/Screenshots/Screenshot_01.png)
 After Clicking on the Category Loader Screen Appears
 
 
